@@ -1,5 +1,8 @@
 # PyWaw — Warsaw Python User Group
 
+[![Documentation checks](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml/badge.svg)](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Community resources and reusable materials for the Warsaw Python community.
 
 This repository is a public resource collection for people who organize, speak at, or participate in Python meetups. It is intended to make community knowledge easier to reuse and improve.
@@ -10,6 +13,17 @@ This repository is a public resource collection for people who organize, speak a
 - [Meetup template](meetup-template.md) — a reusable structure for planning community events
 - [Learning path](learning-path.md) — a starting route for people learning Python
 - [Code of conduct](code-of-conduct.md) — shared expectations for a welcoming community
+- [Contributing guide](CONTRIBUTING.md) — how to propose and review improvements
+
+## Quality checks
+
+The repository runs a lightweight GitHub Actions check on pull requests and pushes to `main`. It validates relative links in Markdown documentation using Python's standard library.
+
+Run the same check locally:
+
+```bash
+python scripts/check_markdown_links.py
+```
 
 ## About PyWaw
 
@@ -19,18 +33,13 @@ The repository is a community resource, not an official event archive or a compl
 
 ## Community involvement
 
-Rafał Korzeniewski is listed publicly as a PyWaw co-organizer. See the [PyWaw speaker and community contributors page](https://pywaw.org/prelegenci/).
+Rafał Korzeniowski is listed publicly as a PyWaw co-organizer. See the [PyWaw speaker and community contributors page](https://pywaw.org/prelegenci/).
 
 For broader Python community context, see [Python Summit](https://pythonsummit.org/).
 
 ## How to contribute
 
-Contributions that make these resources more useful are welcome:
-
-1. Open an issue describing the correction, addition, or proposed improvement.
-2. For documentation changes, submit a focused pull request.
-3. Keep guidance practical, inclusive, and easy to reuse.
-4. Do not add personal information, private attendee data, or unverified claims about community size or activity.
+Contributions that make these resources more useful are welcome. Please read the [contributing guide](CONTRIBUTING.md) before opening an issue or pull request.
 
 ## License
 
