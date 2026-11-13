@@ -1,53 +1,37 @@
-# PyWaw — Warsaw Python User Group 🐍
+# PyWaw — Warsaw Python User Group
 
-[![Meetup Members](https://img.shields.io/badge/Meetup-~3,000_members-red?logo=meetup)](https://pywaw.org)
-[![Since](https://img.shields.io/badge/Active_since-2016-blue)]()
-[![Meetups](https://img.shields.io/badge/Meetups-100+-green)]()
+Community resources and reusable materials for the Warsaw Python community.
 
-Community resources, meetup materials, and speaker guidelines for **PyWaw** — Warsaw's Python User Group.
+This repository is a public resource collection for people who organize, speak at, or participate in Python meetups. It is intended to make community knowledge easier to reuse and improve.
+
+## Repository contents
+
+- [Speaker guide](speaker-guide.md) — practical guidance for current and first-time speakers
+- [Meetup template](meetup-template.md) — a reusable structure for planning community events
+- [Learning path](learning-path.md) — a starting route for people learning Python
+- [Code of conduct](code-of-conduct.md) — shared expectations for a welcoming community
 
 ## About PyWaw
 
-PyWaw is the largest Python user group in Warsaw, Poland. Since December 2016, we've been running **monthly meetups** bringing together Python developers to share knowledge, network, and grow.
+PyWaw is a Warsaw-based Python user group. Public information about the community and its activities is available at [pywaw.org](https://pywaw.org).
 
-- 🗓️ **Monthly meetups** — consistent since 2016 (100+ events)
-- 👥 **~3,000 members** on Meetup
-- 📍 **Warsaw, Poland**
-- 🌐 [pywaw.org](https://pywaw.org)
+The repository is a community resource, not an official event archive or a complete record of PyWaw activity. Membership and event totals are intentionally omitted unless they can be linked to a current, authoritative source.
 
-## What We Do
+## Community involvement
 
-- **Monthly talks** — 2-3 speakers per meetup covering Python ecosystem topics
-- **Networking** — connecting junior developers with mentors and senior engineers
-- **First-time speakers** — mentoring people giving their first conference talk
-- **Job opportunities** — helping developers find Python roles in Warsaw
+Rafał Korzeniewski is listed publicly as a PyWaw co-organizer. See the [PyWaw speaker and community contributors page](https://pywaw.org/prelegenci/).
 
-## Repository Contents
+For broader Python community context, see [Python Summit](https://pythonsummit.org/).
 
-- [`speaker-guide.md`](speaker-guide.md) — Guidelines and tips for PyWaw speakers
-- [`meetup-template.md`](meetup-template.md) — Template for organizing monthly meetups
-- [`learning-path.md`](learning-path.md) — Recommended Python learning path for beginners
-- [`code-of-conduct.md`](code-of-conduct.md) — Community code of conduct
+## How to contribute
 
-## Related Communities
+Contributions that make these resources more useful are welcome:
 
-| Community | Description |
-|-----------|-------------|
-| [Python Summit](https://pythonsummit.org) | Poland's dedicated Python conference at Copernicus Science Centre |
-| [Warsaw IT Days (WDI)](https://wdi.org.pl) | Major annual IT conference in Warsaw |
-| [PLPUG](https://plpug.org) | Polish Python Users Group — national association |
+1. Open an issue describing the correction, addition, or proposed improvement.
+2. For documentation changes, submit a focused pull request.
+3. Keep guidance practical, inclusive, and easy to reuse.
+4. Do not add personal information, private attendee data, or unverified claims about community size or activity.
 
-## How to Get Involved
+## License
 
-1. **Join us** — [pywaw.org](https://pywaw.org)
-2. **Give a talk** — Read our [speaker guide](speaker-guide.md) and submit a proposal
-3. **Spread the word** — Share PyWaw with fellow Python developers in Warsaw
-
-## Organizers
-
-- **Rafał Korzeniewski** — Co-organizer since 2016
-- Community volunteers and speakers who make every meetup possible
-
----
-
-*PyWaw is part of the broader Polish Python community. We believe the strongest ecosystems are built by investing in people.*
+This repository is distributed under the MIT License. See [LICENSE](LICENSE).
