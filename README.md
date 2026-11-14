@@ -1,19 +1,21 @@
-# PyWaw — Warsaw Python User Group
+# PyWaw Community Resources (Independent Project)
 
 [![Documentation checks](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml/badge.svg)](https://github.com/BoluS095/Pywaw---Community/actions/workflows/docs-check.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Community resources and reusable materials for the Warsaw Python community.
+An independently maintained collection of reusable resources for Python meetups, speakers, organizers, and learners.
 
-This repository is a public resource collection for people who organize, speak at, or participate in Python meetups. It is intended to make community knowledge easier to reuse and improve.
+**Affiliation notice:** This repository is not an official PyWaw repository and is not affiliated with or endorsed by the PyWaw organization. The repository name describes its subject matter only. Please refer to the official community website for authoritative information about PyWaw and its activities: https://pywaw.org.
 
 ## Repository contents
 
-- [Speaker guide](speaker-guide.md) — practical guidance for current and first-time speakers
+- [Speaker guide](speaker-guide.md) — practical guidance for first-time and returning speakers
 - [Meetup template](meetup-template.md) — a reusable structure for planning community events
 - [Learning path](learning-path.md) — a starting route for people learning Python
-- [Code of conduct](code-of-conduct.md) — shared expectations for a welcoming community
+- [Code of conduct](code-of-conduct.md) — suggested expectations for a welcoming learning environment
 - [Contributing guide](CONTRIBUTING.md) — how to propose and review improvements
+
+These materials are independent resources. They should not be treated as official PyWaw policies, event records, membership data, or statements on behalf of any organization.
 
 ## Quality checks
 
@@ -25,21 +27,9 @@ Run the same check locally:
 python scripts/check_markdown_links.py
 ```
 
-## About PyWaw
-
-PyWaw is a Warsaw-based Python user group. Public information about the community and its activities is available at [pywaw.org](https://pywaw.org).
-
-The repository is a community resource, not an official event archive or a complete record of PyWaw activity. Membership and event totals are intentionally omitted unless they can be linked to a current, authoritative source.
-
-## Community involvement
-
-Rafał Korzeniowski is listed publicly as a PyWaw co-organizer. See the [PyWaw speaker and community contributors page](https://pywaw.org/prelegenci/).
-
-For broader Python community context, see [Python Summit](https://pythonsummit.org/).
-
 ## How to contribute
 
-Contributions that make these resources more useful are welcome. Please read the [contributing guide](CONTRIBUTING.md) before opening an issue or pull request.
+Contributions that make these independent learning and meetup resources more useful are welcome. Please read the [contributing guide](CONTRIBUTING.md) before opening an issue or pull request.
 
 ## License
 
